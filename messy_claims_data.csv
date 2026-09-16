@@ -1,0 +1,66 @@
+patient_id,patient_name,claim_date,diagnosis_code,claim_amount,provider_id,claim_status
+P0021,Maria Smith,2025-05-21,E78.5,740.71,,Paid
+P0019,David Smith,01/16/2025,E78.5,1201.67,,paid
+P0023,Carlos Wilson,2025-08-03,I10 ,2966.87,PR01,paid
+P0023,David Davis,2025-05-23,E78.5,4788.2,PR01,Denied
+P0004,Patricia Davis,05/16/2025,I10 ,2704.33,PR04,Paid
+P0018,Michael Lopez,2025-07-05,I10,276.83,PR03,Paid
+P0028,Linda Garcia,14-Jul-2025,I10 ,3196.64,PR03,PAID
+P0007,Carlos Brown,2025-02-06,E78.5,858.84,,paid
+P0022,Patricia Smith,04/28/2025,,,,denied 
+P0011,Linda Miller,07-22-25,J45.909,1361.16,,Pending
+P0009,Jennifer Lopez,08-08-25,,1135.64,,Denied
+P0003,William Smith,2025-02-26,J45.909,3970.79,PR01,Denied
+P0013,Susan Miller,28-Sep-2025,E11.9,3417.4,,PAID
+P0025,Carlos Davis,27-Feb-2025,e11.9,,PR03,Pending
+P0025,Robert Wilson,24-Feb-2025,E78.5,806.55,,Pending
+P0030,James Lopez,06-15-25,E11.9,603.75,PR03,paid
+P0002,Linda Lopez,02/10/2025,I10 ,4089.32,,paid
+P0005,Carlos Miller,2025-10-09,N18.3,2661.99,PR02,Pending
+P0025,Jennifer Martinez,06-09-25,,2218.6,PR01,paid
+P0008,Maria Davis,2025-01-11,E78.5,85.59,PR01,paid
+P0003,Thomas Smith,06/19/2025,E78.5,1428.46,,paid
+P0024,Thomas Lopez,10-23-25,E78.5,3933.87,PR02,Paid
+P0004,Carlos Rodriguez,07-01-25,e11.9,2361.77,PR01,Paid
+P0013,Jennifer Davis,2025-02-25,E78.5,991.53,PR04,paid
+P0009,Barbara Martinez,02-08-25,I10,300.41,PR01,Paid
+P0030,William Martinez,03-27-25,I10 ,2432.72,PR01,paid
+P0013,James Rodriguez,05-16-25,N18.3,2143.89,,denied 
+P0023,Barbara Johnson,08-Apr-2025,E78.5,4845.11,,Paid
+P0024,Patricia Smith,01-26-25,J45.909,331.55,PR02,Paid
+P0020,Maria Martinez,07/26/2025,E78.5,,PR01,Denied
+P0022,Susan Lopez,25-Sep-2025,N18.3,1061.08,PR02,PAID
+P0013,Robert Brown,23-Aug-2025,I10,96.11,,Paid
+P0003,John Martinez,17-Sep-2025,J45.909,4669.63,PR02,PAID
+P0010,Robert Miller,06-Oct-2025,E11.9,3355.92,PR01,paid
+P0009,Maria Garcia,2025-10-11,N18.3,1444.69,PR03,paid
+P0022,Carlos Brown,09-16-25,N18.3,4531.42,PR01,denied 
+P0014,Elizabeth Brown,01/23/2025,,3867.04,PR03,paid
+P0024,Barbara Wilson,08/07/2025,I10,422.46,PR02,Pending
+P0002,Elizabeth Davis,2025-10-26,e11.9,680.86,PR01,PAID
+P0007,Carlos Martinez,22-Feb-2025,e11.9,4870.49,PR02,paid
+P0026,William Johnson,07/31/2025,J45.909,3695.99,PR04,denied 
+P0028,Jennifer Martinez,2025-05-17,I10,,PR04,paid
+P0007,Elizabeth Miller,29-Jun-2025,E78.5,1153.47,PR04,PAID
+P0009,Elizabeth Garcia,23-May-2025,e11.9,3413.61,PR03,Paid
+P0004,Thomas Brown,02-Apr-2025,E11.9,586.59,PR03,Denied
+P0020,John Garcia,2025-07-17,N18.3,269.71,,Pending
+P0022,Jennifer Martinez,07-06-25,I10,4746.93,,PAID
+P0022,Elizabeth Garcia,03-Jun-2025,e11.9,1664.61,,paid
+P0007,David Rodriguez,31-Mar-2025,e11.9,,PR03,paid
+P0014,William Lopez,06-14-25,I10 ,2238.69,PR04,denied 
+P0006,Carlos Garcia,26-May-2025,I10,4101.2,PR03,paid
+P0026,Linda Johnson,01/13/2025,E78.5,4920.48,PR01,Denied
+P0014,Thomas Lopez,04-10-25,I10 ,2028.28,PR01,Paid
+P0025,David Martinez,04-01-25,E11.9,2809.16,PR01,Denied
+P0005,William Miller,29-Sep-2025,I10 ,3082.63,,Denied
+P0027,Thomas Wilson,2025-08-17,I10 ,2277.85,PR03,Pending
+P0016,Carlos Martinez,05-21-25,I10,3582.05,PR03,PAID
+P0029,John Garcia,2025-03-12,E78.5,1946.02,PR02,Paid
+P0014,David Davis,10-05-25,e11.9,358.22,PR04,Pending
+P0023,James Lopez,07-14-25,E11.9,4716.57,PR04,Denied
+P0007,Carlos Martinez,22-Feb-2025,e11.9,4870.49,PR02,paid
+P0028,Jennifer Martinez,2025-05-17,I10,,PR04,paid
+P0023,Carlos Wilson,2025-08-03,I10 ,2966.87,PR01,paid
+P0007,David Rodriguez,31-Mar-2025,e11.9,,PR03,paid
+P0006,Carlos Garcia,26-May-2025,I10,4101.2,PR03,paid
